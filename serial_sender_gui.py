@@ -1,4 +1,3 @@
-```python
 import serial
 import time
 import datetime
@@ -37,4 +36,3 @@ btn1.pack(side=BOTTOM)
 btn.pack(side=BOTTOM)
 
 root.mainloop()
-```

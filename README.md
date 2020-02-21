@@ -15,7 +15,7 @@ sudo apt install python3-tk
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
 pip3 install -r requriements.txt
-pacman -S tk
+sudo pacman -S tk
 ```
 
 # How to change the port?
@@ -47,7 +47,7 @@ sudo apt install python3-tk
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
 pip3 install -r requriements.txt
-pacman -S tk
+sudo pacman -S tk
 ```
 
 # Как поменять порт?

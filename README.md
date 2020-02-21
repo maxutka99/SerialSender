@@ -6,6 +6,7 @@ Installation guide
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
 pip3 install -r requriements.txt
+sudo apt install python3-tk
 ```
 
 # Running

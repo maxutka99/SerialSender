@@ -42,7 +42,7 @@ sudo apt install python3-tk
 python3 serial_sender_gui.py
 ```
 
-#aboutme
+# aboutme
 
 1. Discord : maxutka99#1622
 2. YouTube : https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ?view_as=subscriber

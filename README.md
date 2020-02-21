@@ -1,4 +1,4 @@
-# SerialSender
+# SerialSender™️
 Python program to send 1 or 0 to serial port
 # Installing
 Installation guide

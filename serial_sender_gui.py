@@ -26,7 +26,7 @@ def disable():
 
 root = Tk()
 root.title("SerialSender")
-root.geometry("150x100")
+root.geometry("200x100")
 
 label1 = Label(text="SerialSender™️", font="Arial 14")
 label1.pack()

@@ -1,14 +1,21 @@
-# English Readme
-English version of Readme
+## English Readme version
+
 # SerialSender
-Python program to send 1 or 0 to serial port
+Simple Python program to send 1 or 0 to serial port
 # Installing
-Installation guide(for GNU/Linux(debian, ubuntu))
+## Debian (and others)
 ```bash
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
 pip3 install -r requriements.txt
 sudo apt install python3-tk
+```
+## Arch Linux (and others)
+```bash
+git clone https://github.com/maxutka99/SerialSender.git
+cd SerialSender
+pip3 install -r requriements.txt
+pacman -S tk
 ```
 
 # How to change the port?
@@ -23,17 +30,24 @@ python3 serial_sender_gui.py
 1. Discord: maxutka99#1622
 2. YouTube: https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ?view_as=subscriber
 
-# Русская версия Readme
-Версия Readme на русском языке
+## Русская версия Readme
+
 # SerialSender
 Простая программа на Python с графический интерфейсом для отправки нулей и единиц в выбранный последовательный порт
 # Установка
-Небольшая инструкция по установке(для GNU/Linux)
+## Debian (и другие)
 ```bash
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
 pip3 install -r requriements.txt
 sudo apt install python3-tk
+```
+## Arch Linux (и другие)
+```bash
+git clone https://github.com/maxutka99/SerialSender.git
+cd SerialSender
+pip3 install -r requriements.txt
+pacman -S tk
 ```
 
 # Как поменять порт?
@@ -44,8 +58,9 @@ sudo apt install python3-tk
 python3 serial_sender_gui.py
 ```
 
-# aboutme
+# Обо мне
 
-1. Discord : maxutka99#1622
-2. YouTube : https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ?view_as=subscriber
+1. Discord: maxutka99#1622
+2. YouTube: https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ?view_as=subscriber
 
+ 

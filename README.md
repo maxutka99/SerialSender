@@ -9,6 +9,9 @@ pip3 install -r requriements.txt
 sudo apt install python3-tk
 ```
 
+# How to change the port?
+To change the serial port, you need to change the "port" variable in serial_sender_gui.py
+
 # Running
 ```bash
 python3 serial_sender_gui.py

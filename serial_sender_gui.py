@@ -25,7 +25,7 @@ def disable():
     ser.write(b'0')
 
 root = Tk()
-root.title("Управление Умным домом")
+root.title("SerialSender")
 root.geometry("150x100")
 
 label1 = Label(text="SerialSender™️", font="Arial 14")

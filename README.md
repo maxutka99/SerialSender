@@ -1,3 +1,5 @@
+# English Readme
+English version of Readme
 # SerialSender
 Python program to send 1 or 0 to serial port
 # Installing
@@ -22,7 +24,7 @@ python3 serial_sender_gui.py
 2. YouTube: https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ?view_as=subscriber
 
 # Русская версия Readme
-
+Версия Readme на русском языке
 # SerialSender
 Простая программа на Python с графический интерфейсом для отправки нулей и единиц в выбранный последовательный порт
 # Установка

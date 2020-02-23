@@ -3,7 +3,7 @@
 # SerialSender
 Simple Python program to send 1 or 0 to serial port
 # Installing
-## Debian (and others)
+## Debian GNU/Linux (and others)
 ```bash
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender
@@ -35,7 +35,7 @@ python3 serial_sender_gui.py
 # SerialSender
 Простая программа на Python с графический интерфейсом для отправки нулей и единиц в выбранный последовательный порт
 # Установка
-## Debian (и другие)
+## Debian GNU/Linux (и другие)
 ```bash
 git clone https://github.com/maxutka99/SerialSender.git
 cd SerialSender

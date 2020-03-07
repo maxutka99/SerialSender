@@ -1,4 +1,4 @@
-![Kek] https://raw.githubusercontent.com/maxutka99/SerialSender/master/ssico.png
+![Kek](https://raw.githubusercontent.com/maxutka99/SerialSender/master/ssico.png)
 
 ## English Readme version
 

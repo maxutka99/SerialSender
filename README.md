@@ -1,4 +1,4 @@
-!https://raw.githubusercontent.com/maxutka99/SerialSender/master/ssico.png
+![https://raw.githubusercontent.com/maxutka99/SerialSender/master/ssico.png]
 ## English Readme version
 
 # SerialSender

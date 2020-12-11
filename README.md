@@ -28,9 +28,6 @@ To change the serial port, you need to change the "port" variable in serial_send
 python3 serial_sender_gui.py
 ```
 
-# About me
-1. Discord: maxutka99#1622
-2. YouTube: https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ
 
 ## Русская версия Readme
 
@@ -60,9 +57,6 @@ sudo pacman -S tk
 python3 serial_sender_gui.py
 ```
 
-# Обо мне
 
-1. Discord: maxutka99#1622
-2. YouTube: https://www.youtube.com/channel/UCsJAcK4xydyrWER3V0NYczQ
 
  
